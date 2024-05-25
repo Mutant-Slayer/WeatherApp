@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.WeatherApp" parent="Theme.Material3.DayNight" />
+
+    <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp" />
+</resources>
